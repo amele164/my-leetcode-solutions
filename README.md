@@ -5,4 +5,4 @@ This repository contains my solutions to LeetCode problems. Approaches might not
 Language: C++
 
 Problems solved:
-- 2441. Largest Positive Integer That Exists With Its Negative
+Largest Positive Integer That Exists With Its Negative
