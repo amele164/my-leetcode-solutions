@@ -5,7 +5,7 @@
 |------|--------------------------------------------------------------------|------------|----------|
 | 1    | Two Sum                                                            | Easy       | C++      |
 | 11   | Container With Most Water                                          | Medium     | C++      |
-| 2441 | Largest Positive Integer That Exists With Its Negative             | Hard       | C++      |
+| 2441 | Largest Positive Integer That Exists With Its Negative             | Easy       | C++      |
 
 ## About
 
