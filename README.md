@@ -6,6 +6,7 @@
 | 1    | Two Sum                                                            | Easy       | C++      |
 | 11   | Container With Most Water                                          | Medium     | C++      |
 | 58   | Length of Last Word                                                | Easy       | C++      |
+| 299  | Bulls and Cows                                                     | Medium     | C++      |
 | 2441 | Largest Positive Integer That Exists With Its Negative             | Easy       | C++      |
 | 3289 | The Two Sneaky Numbers of Digitville                               | Easy       | C++      |
 
