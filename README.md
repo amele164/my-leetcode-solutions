@@ -5,6 +5,7 @@
 |------|--------------------------------------------------------------------|------------|----------|
 | 1    | Two Sum                                                            | Easy       | C++      |
 | 11   | Container With Most Water                                          | Medium     | C++      |
+| 26   | Remove Duplicates from Sorted Array                                | Easy       | C++      |
 | 42   | Trapping Rain Water                                                | Hard       | C++      |
 | 58   | Length of Last Word                                                | Easy       | C++      |
 | 299  | Bulls and Cows                                                     | Medium     | C++      |
