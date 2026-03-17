@@ -8,6 +8,7 @@
 | 26   | Remove Duplicates from Sorted Array                                | Easy       | C++      |
 | 42   | Trapping Rain Water                                                | Hard       | C++      |
 | 58   | Length of Last Word                                                | Easy       | C++      |
+| 167  | Two Sum II - Input Array Is Sorted                                 | Medium     | C++      |
 | 299  | Bulls and Cows                                                     | Medium     | C++      |
 | 1855 | Maximum Distance Between a Pair of Values                          | Medium     | C++      |
 | 2193 | Minimum Number of Moves to Make Palindrome                         | Hard       | C++      |
